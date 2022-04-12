@@ -1,4 +1,7 @@
 .navbar-custom{
     background-color: rgb(219, 217, 78);
-    
+    font-family: 'Rubik', sans-serif;
+}
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
 }
